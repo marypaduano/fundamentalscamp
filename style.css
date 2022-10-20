@@ -1,0 +1,68 @@
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+
+  }
+
+.container{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.7);
+    width: 1000px;
+    margin: 50px 300px;
+  }
+
+*{
+    box-sizing: border-box;
+    }
+
+.logo{ height: 100px;
+  margin-top: 50px;
+}
+
+.titolo{
+  color: #6cd302;
+}
+.navigator{
+  background-color: #6cd302;
+  width: 1000px;
+  height: 50px;
+  margin: auto;
+}
+button{
+  margin: 10px;
+}
+.select{
+  width: 1000px;
+  margin: 0px 300px 200px;
+  text-align: left;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+.titolo1{
+font-weight: 600;font-size: 25px;
+}
+.chargegino{
+  background-color: orange;
+  color: orange;
+  border-radius: 5px;
+  width: 300px;
+  height: 25px;
+}
+
+.chargemike{
+  background-color: #6cd302;
+  color: #6cd302;
+  border-radius: 5px;
+  width: 500px;
+  height: 25px;
+
+}
+
+.chargefede{
+  background-color: #f400a1;
+  color: #f400a1;
+  border-radius: 5px;
+  width: 100px;
+  height: 25px;
+
+}
